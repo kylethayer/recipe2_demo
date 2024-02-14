@@ -3,5 +3,5 @@
 Salsa Recipe:
 
 chop up the following ingredinets
-- Tomatoes
+- Large Tomatoes
 - Onions
